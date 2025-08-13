@@ -21,9 +21,9 @@ class Square extends Animal {
 		
 	}
 	getperimeter(){
-		return 4 * this._side;
+		return 4 * this._width;
 	}
-}
+} 
 
 // Do not change the code below this line
 window.Rectangle = Rectangle;
